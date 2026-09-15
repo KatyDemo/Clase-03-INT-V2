@@ -1,5 +1,5 @@
 # Clase-03-INT
-## CUADERNO de Gemini  sobre la Materia: Legislación.
+## CUADERNO de Gemini sobre la Materia: Legislación.
 **Descripción**
 * Utilizo los siguientes componentes de STUDIO:
   * Mapa Mental: xxx
